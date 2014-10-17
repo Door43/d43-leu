@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[leu:home|Door43 (leu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-leu|d43-leu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-leu/archive/master.zip|d43-leu.zip]]
+
+**Recent Changes**
+{{changes>ns = leu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/leu|Ethnologue data]]
+
